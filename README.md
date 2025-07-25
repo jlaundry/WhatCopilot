@@ -18,10 +18,10 @@ The purpose of this repo is to provide an overview of these products; the privac
 | Microsoft Designer         |         | https://designer.microsoft.com/ | Copilot Designer                              |
 | Azure OpenAI               |         |                                 |                                               |
 | Windows Copilot            |         |                                 |                                               |
-| Windows Recall             |         |                                 |                                               |
-| Copilot Vision (Windows)   |         |                                 |                                               |
-| Copilot Vision (Edge)      |         |                                 |                                               |
-| Microsoft Copilot in Edge  |         |                                 |                                               |
+| [Windows Recall](#windows-recall)             |         |                                 |                                               |
+| [Copilot Vision (Windows)](#copilot-vision-windows)   |         |                                 |                                               |
+| [Copilot Vision (Edge)](#copilot-vision-edge)      |         |                                 |                                               |
+| [Microsoft Copilot in Edge](#microsoft-copilot-in-edge)  |         |                                 |                                               |
 
 
 ## Key Business Risks
