@@ -43,13 +43,13 @@ Doesn't seem to have an option to disable this feature; may need to remove the w
 
 #### Local Access
 
-1. Navigate to [edge://flags/#edge-copilot-vision]
+1. Navigate to [edge://flags/#edge-copilot-vision](edge://flags/#edge-copilot-vision)
 1. Set the status for Copilot Vision to Disabled
 
 ### Microsoft Copilot in Edge
 
 #### Local Access
 
-1. Navigate to [edge://settings/sidebar/appSettings?hubApp=cd4688a9-e888-48ea-ad81-76193d56b1be]
+1. Navigate to [edge://settings/sidebar/appSettings?hubApp=cd4688a9-e888-48ea-ad81-76193d56b1be](edge://settings/sidebar/appSettings?hubApp=cd4688a9-e888-48ea-ad81-76193d56b1be)
 1. Disable "Show Copilot button on the toolbar"
 
